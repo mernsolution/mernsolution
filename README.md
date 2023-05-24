@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mernsolution" alt="mernsolution" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mernsolution" target="blank"><img src="https://img.shields.io/twitter/follow/mernsolution?logo=twitter&style=for-the-badge" alt="mernsolution" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - 🔭 I’m currently working on **OpenAI-Chatbot**
 
 <h3 align="left">Connect with me:</h3>
