@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![MasterHead]([(https://geekflare.com/wp-content/uploads/2022/10/Learn-Coding-in-a-Fun-Way-on-These-7-Platforms.jpeg))](https://codegrills.in)
 <h1>Hi 👋, I'm Md RUBEL</h1>
 <h3>Hello My name is Md Rubel.I am a MERN stack developer with a strong knowledge in web development.I am proficient in building web applications using popular front-end frameworks such as React js Vue.js, as well as back-end technologies such as Node.js and MongoDB. With my excellent problem-solving skills and attention to detail, I am able to design and implement efficient and scalable solutions to complex technical challenges.I also have experience working with various API integrations and third-party libraries OPENAI API, and i always try to learn new technologies and stay up-to-date with industry trends.My passion for coding and commitment to delivering high-quality work make me a valuable asset to any team.</h3>
 
